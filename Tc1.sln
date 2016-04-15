@@ -1,0 +1,65 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A24D7BF7-B468-409B-B605-5BFD4264D1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALSql", "DALSql\DALSql.csproj", "{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web39", "Web39\Web39.csproj", "{50FC1303-9AA7-43C6-9B01-D90E10F69108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Release|.NET.ActiveCfg = Release|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{60BDACC1-FAC5-40FC-AE80-E50BBDC27553}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A24D7BF7-B468-409B-B605-5BFD4264D1D3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A24BBD81-2369-4B9E-B57B-8CAE0CED19CB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Release|.NET.ActiveCfg = Release|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{50FC1303-9AA7-43C6-9B01-D90E10F69108}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
